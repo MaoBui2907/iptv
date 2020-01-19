@@ -1,0 +1,53 @@
+#EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv1.png",HTV1
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv2.png",HTV2
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv3.png",HTV3
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv4.png",HTV4
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" group-title="HTV",HTV7
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6589775-logo-htv9hd-a.png" group-title="HTV",HTV9
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png" group-title="HTV",HTVC Ca Nhạc
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-31/2977024-8502386-logodlc.png" group-title="HTV",HTVC Du Lịch
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png" group-title="HTV",HTVC Gia Đình
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png" group-title="HTV",HTVC Phim
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png" group-title="HTV",HTVC Phụ Nữ
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/3f/HTV_THETHAO_2014.png/220px-HTV_THETHAO_2014.png",HTV Thể  Thao
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/htvc-tv" group-title="HTV", HTVC Thuần Việt S1
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/htvc-tv" group-title="HTV", HTVC Thuần Việt S2
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-ms" group-title="VTC", VTC Ca Nhạc
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S1
+http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/chunklist_b1296000_slVI.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 
+http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-3" group-title="VTC", VTC3
+http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 
+http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-7" group-title="VTC", VTC7 HD-Today 
+http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-9" group-title="VTC", VTC9 
+http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-10" group-title="VTC", VTC10-Nét Việt S2
+http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S2
+http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gg.gg/btv-10" group-title="BTV", BTV10-NCM
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://gg.gg/btv-11" group-title="BTV", BTV11-SAM
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
+
