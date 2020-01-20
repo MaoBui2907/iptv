@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="VTV" tvg-logo="http://tduc.tk/logo/vtv1.png",VTV1 HD
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_1000.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv1.png",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="http://tduc.tk/logo/htv2.png",HTV2
