@@ -20,7 +20,7 @@ https://nq4l1axrd.vtvgiaitri.vn/hls/vtv8-23491x.smil/xcqmti9.m3u8
 https://nq4l1axrd.vtvgiaitri.vn/hls/vtv9-234wm8.smil/wy1cwsv.m3u8
 
 #EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv1.png",HTV1
-http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/qazQC3J.jpg" tvg-name="HTV3",HTV3
@@ -65,7 +65,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YasRGy0.png" group-title="VTC",VTC6
 http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC6/hlsv5/VTC6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lW2DbEB.png" group-title="VTC",VTC7
-http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
+http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC7/hlsv5/VTC7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVM7co8.jpg" group-title="VTC",VTC8
 http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC8/hlsv5/VTC8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UOIPXAr.png" group-title="VTC",VTC9
@@ -88,7 +88,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/niyt_VA9.png" ,Vĩnh Long 2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" ,Vĩnh Long 3
-https://live2.thvli.vn/8a11ab4b943055d64a6b641c237bff841579544816/live/thvl3hd_2160000/index.m3u8
+#https://live2.thvli.vn/8a11ab4b943055d64a6b641c237bff841579544816/live/thvl3hd_2160000/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg" ,Vĩnh Long 4
 #https://livemobile.thvli.vn/38f25bf3a83726c3ca75825287b0dacc1562516321/live/thvl4hd_2160000/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsoMcoFyOWSLzxcw3S4xAPWKKGPoej-WJkC4-9m3CAhCwQWkq1" group-title="ĐỊA PHƯƠNG",An Giang
@@ -123,8 +123,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/09/25/229604-DN1.png" group-title="ĐỊA PHƯƠNG",Đồng Nai 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/09/25/447767-DN2.png" group-title="ĐỊA PHƯƠNG",Đồng Nai 2
-http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMug1gS.png" group-title="ĐỊA PHƯƠNG",Đồng Tháp
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" group-title="ĐỊA PHƯƠNG",Đắk Lắk
@@ -164,7 +162,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/old_image/dataimages/201807/original/1411496_Logo_NTV_HD_chuan.png" group-title="ĐỊA PHƯƠNG",Nghệ An
 https://live.truyenhinhnghean.vn/live/na1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/1/18/PTV_logo_%28Ph%C3%BA_Th%E1%BB%8D%29.svg/revision/latest/scale-to-width-down/340?cb=20180830142436&path-prefix=vi" group-title="ĐỊA PHƯƠNG",Phú Thọ
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=kPVqqCmPwtJDSbiix8gJGw&e=1579542508
+https://livetdcdn.vtvcab.vn/5d6f9690ea28f278b718af16/5cf720e3d3053448b81710a7/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/3/31/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_v%C3%A0_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Y%C3%AAn.png/revision/latest?cb=20180912032545&path-prefix=vi" group-title="ĐỊA PHƯƠNG",Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png" group-title="ĐỊA PHƯƠNG",Quảng Nam
