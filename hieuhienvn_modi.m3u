@@ -7,23 +7,23 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
 
 
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD
-https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
-https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv2-234ond.smil/oct8vzx.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
-https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
-https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv4-234khz.smil/hv6it1p.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
-http://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv54802p.smil/2gslugp.m3u8
 #EXTINF:-1  group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
-https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv64802v.smil/2tewkuv.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7 HD
-http://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv7-234iyr.smil/iv8u7pu.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png",VTV8 HD
-http://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv8-23491x.smil/xcqmti9.m3u8
 #EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9 HD
-http://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
+https://nq4l1axrd.vtvgiaitri.vn/hls/vtv9-234wm8.smil/wy1cwsv.m3u8
 
 #EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv1.png", HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
